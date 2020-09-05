@@ -23,10 +23,9 @@ I'm a Computer Science student at National Institute of Technology Meghalaya. I 
   <summary>Click me!</summary>
   
 - Interned at JP Morgan Chase & Co. , Establising data and visualization .
-- 
-- Made a simple start page and use it daily. It can be found in [this repository](https://github.com/jaswantcoder/startPage)
+-  Completed a research internship at National Institute of Technology Rourkela, worked on blockchain technology
+- Made a simple Ballot Dapp. It can be found in [this repository](https://github.com/jaswantcoder/Ballot-Dapp)
 
-\*Note: Semestre i is a type of semester where students work with a company to solve a challenge. Most of the time is used to come up with a solution and implement it. In my case, the challenge was IoT.
   
 </details>
 
