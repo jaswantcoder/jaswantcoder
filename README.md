@@ -5,7 +5,6 @@ I'm a Computer Science student at National Institute of Technology Meghalaya. I 
 ### What I'm up to right now
 
 - Doing some [Leetcode](https://leetcode.com/jaswantcoder/) problems. Currently, I'm trying to solve one problem per day. [Repository](https://github.com/jaswantcoder/leetcode).
-- Currently reading [Algorithms in a Nutshell](https://www.oreilly.com/library/view/algorithms-in-a/9780596516246/) by George Heineman, Gary Pollice and Stanley Selkow.
 - Currently reading The C Programming Language by Brian Kerninghan and Dennis Ritchie.
 
 ### My recent activity
@@ -13,7 +12,7 @@ I'm a Computer Science student at National Institute of Technology Meghalaya. I 
 <details>
   <summary>Click me!</summary>
   
-- Just finished taking the [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/) course by The Linux Foundation.
+- Working on blockchain projects
   
 </details>
 
