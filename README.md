@@ -46,6 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-src="https://github-readme-stats.vercel.app/api?username=jaswantcoder&show_icons=true" alt="jaswantcoder" /> </p>
+</p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jaswantcoder&show_icons=true" alt="shreyaprasad1209" /> </p>
 
