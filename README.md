@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+src="https://github-readme-stats.vercel.app/api?username=jaswantcoder&show_icons=true" alt="jaswantcoder" /> </p>
+
