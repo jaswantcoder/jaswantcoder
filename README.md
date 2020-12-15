@@ -1,5 +1,7 @@
 ### Hi there, I'm Jaswant 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaswantcoder" alt="jaswantcoder" /> </p>
+
 I'm a Computer Science student at National Institute of Technology Meghalaya. I love programming and learning, so I have a couple of repositories with experiments and material that I've used in my learning process.
 
 ### What I'm up to right now
